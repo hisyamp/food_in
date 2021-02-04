@@ -14,7 +14,6 @@ class MyApp extends StatelessWidget {
       title: 'FoodiN',
       theme: ThemeData(
           scaffoldBackgroundColor: kBackgroundColor,
-          fontFamily: 'Montserrat',
           textTheme: TextTheme(
             bodyText1: TextStyle(color: kBodyTextColor),
           )),
